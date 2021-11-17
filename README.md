@@ -15,3 +15,6 @@ localhost:8000/api/insertar
 localhost:8000/api/actualizar/id
 
 localhost:8000/api/eliminar/id
+
+
+Las fechas de creación y actualización se insertan de acuerdo al horario del sistema
